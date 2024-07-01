@@ -2,8 +2,6 @@ import os
 import spotipy
 import spotipy.oauth2 as oauth2
 import yt_dlp
-import ffmpeg
-import ffprobe
 import multiprocessing
 import urllib.request
 
