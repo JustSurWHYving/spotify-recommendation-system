@@ -1,5 +1,6 @@
 # prevent api keys leakage
 lyrics-implementation-keys.ipynb
+config.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
