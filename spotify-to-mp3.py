@@ -2,9 +2,12 @@ import os
 import spotipy
 import spotipy.oauth2 as oauth2
 import yt_dlp
-from youtube_search import YoutubeSearch
+import ffmpeg
+import ffprobe
 import multiprocessing
 import urllib.request
+
+from youtube_search import YoutubeSearch
 from mutagen.mp3 import MP3
 from mutagen.id3 import ID3, APIC, error
 
