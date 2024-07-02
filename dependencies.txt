@@ -13,3 +13,4 @@ youtube_search
 yt_dlp
 ffprobe
 ffmpeg
+langdetect
