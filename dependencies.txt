@@ -8,7 +8,6 @@ spotipy
 requests
 librosa
 bs4
-youtube_dl
 youtube_search
 yt_dlp
 ffprobe
