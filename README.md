@@ -1,1 +1,1 @@
-# spotify-recommendeation-system
+# spotify-recommendation-system
